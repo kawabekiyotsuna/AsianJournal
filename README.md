@@ -1,1 +1,1 @@
-# laravel-book-review
+# AsianJournal
