@@ -91,7 +91,7 @@
             @yield('content')
         </main>
         <footer class='footer p20'>
-          <small class='copyright'>AsianJournal 2020 copyright</small>
+          <small class='copyright'>AsianJournal XXX2020 copyright</small>
         </footer>
     </div>
 </body>
